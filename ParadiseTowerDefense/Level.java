@@ -8,7 +8,7 @@ import java.util.LinkedList; //Import LinkedList from java.util
  * All of the major functions of each level has been added here. Thus, it allows the programmer to create a large amount of levels with relatively 
  * less time consumption.
  * 
- * @author Group 1
+ * @author Andrew Qiao, Ryo Minakami
  * @version June 2021
  */
 public abstract class Level extends World
