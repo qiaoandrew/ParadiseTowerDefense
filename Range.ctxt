@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Range
+comment0.text=\r\n\ Range\ Class\ -\ Range\ that\ displays\ how\ far\ the\ tower\ can\ shoot.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=radius
+comment1.target=Range(int)
+comment1.text=\r\n\ Constructor\ for\ the\ range,\ draws\ and\ sets\ the\ image.\r\n\ \r\n\ @param\ radius\ \ \ \ \ \ \ \ \ \ \ \ Radius\ of\ the\ range\r\n
+comment2.params=transparency
+comment2.target=void\ setTransparency(int)
+comment2.text=\r\n\ Sets\ the\ transparency\ of\ the\ range.\r\n\ \r\n\ @param\ transparency\ \ \ \ \ \ \ \ \ \ Transparency\ of\ the\ range\ image\r\n
+numComments=3

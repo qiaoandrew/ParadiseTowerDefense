@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Info
+comment0.text=\r\n\ Info\ Class\ -\ An\ object\ that\ is\ added\ to\ the\ world\ to\ show\ the\ user\ how\ to\ the\ play\ the\ game,\ also\ includes\ a\ back\r\n\ button\ to\ remove\ it.\r\n\ \r\n\ @author\ Andrew\ Qiao,\ James\ Li\r\n\ @version\ June\ 2021\r\n
+comment1.params=
+comment1.target=Info()
+comment1.text=\r\n\ Constructor\ for\ Info\ Class,\ initializes\ button\ for\ user\ to\ press\ to\ go\ back\ to\ previous\ screen.\r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Called\ when\ Info\ instance\ is\ added\ to\ world,\ adds\ the\ back\ button\ to\ the\ world.\r\n\ \r\n\ @param\ w\ \ \ \ \ \ \ \ \ World\ the\ instance\ is\ in\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Called\ every\ act,\ checks\ if\ the\ user\ clicks\ on\ the\ button\ and\ acts\ accordingly.\r\n
+numComments=4

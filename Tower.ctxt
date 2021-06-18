@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Tower
+comment0.text=\r\n\ Tower\ Class\ -\ Superclass\ to\ all\ types\ of\ towers,\ contains\ vital\ functions\ and\ values.\r\n\ \r\n\ @author\ Andrew\ Qiao,\ Ryo\ Minakami,\ James\ Li\r\n\ @version\ June\ 2021\r\n
+comment1.params=tileIndex\ rangeCircle\ level
+comment1.target=Tower(int,\ Range,\ Level)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ type\ Tower,\ initalizes\ starting\ values.\r\n\ \r\n\ @param\ tileIndex\ \ \ \ \ \ \ \ \ Index\ of\ the\ tile\ the\ tower\ is\ on\r\n\ @param\ rangeCircle\ \ \ \ \ \ \ Circle\ that\ displays\ the\ range\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Called\ every\ act.\r\n
+comment3.params=damage
+comment3.target=void\ hit(int)
+comment3.text=\r\n\ Called\ to\ damage\ the\ tower.\r\n\ \r\n\ @param\ damage\ \ \ \ \ \ \ \ \ \ \ \ Amount\ of\ the\ damage\ done\ to\ the\ tower\r\n
+comment4.params=
+comment4.target=void\ turn()
+comment4.text=\r\n\ Finds\ an\ enemy\ to\ target\ and\ turns\ towards\ them\ and\ fires\ after\ reloading.\r\n
+comment5.params=a
+comment5.target=void\ shoot(greenfoot.Actor)
+comment5.text=\r\n\ Called\ to\ shoot\ at\ an\ Enemy.\r\n\ \r\n\ @param\ a\ \ \ \ \ \ \ \ \ Actor\ being\ targeted.\r\n
+comment6.params=
+comment6.target=Enemy\ findEnemy()
+comment6.text=\r\n\ Finds\ the\ nearest\ enemy\ within\ range.\r\n\ \r\n\ @return\ Enemy\ \ \ \ \ \ \ \ Nearest\ enemy\ within\ range.\r\n
+comment7.params=a
+comment7.target=double\ getDistance(greenfoot.Actor)
+comment7.text=\r\n\ Returns\ the\ distance\ between\ a\ troop\ and\ another\ actor.\r\n\ \r\n\ @return\ double\ \ \ \ \ \ \ \ \ \ \ Distance\ between\ a\ troop\ and\ another\ actor\r\n
+numComments=8

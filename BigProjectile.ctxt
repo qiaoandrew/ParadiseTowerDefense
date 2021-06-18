@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BigProjectile
+comment0.text=\r\n\ BigProjectile\ class\ -\ A\ big\ projectile\ that\ is\ shot\ out\ of\ SingleLaucher\ towers.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=target
+comment1.target=BigProjectile(greenfoot.Actor)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BigProjectile,\ calls\ superclass\ constructor\ and\ initalizes\ starting\ values.\r\n\ \r\n\ @param\ target\ \ \ \ \ \ \ \ Target\ of\ the\ projectile.\r\n
+numComments=2

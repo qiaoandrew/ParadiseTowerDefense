@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SingleLauncher
+comment0.text=\r\n\ SingleLauncher\ Class\ -\ Inherits\ from\ Tower\ superclass,\ launches\ projectiles\ at\ enemies.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=tileIndex\ base\ rangeCircle\ level
+comment1.target=SingleLauncher(int,\ Base,\ Range,\ Level)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SingleLauncher,\ calls\ superclass\ and\ initializes\ starting\ values.\r\n\ \r\n\ @param\ tileIndex\ \ \ \ \ \ \ \ \ \ \ \ \ Index\ of\ the\ tile\ the\ SingleLauncher\ will\ be\ on\r\n\ @param\ base\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Base\ of\ the\ tower\r\n\ @param\ rangeCirlce\ \ \ \ \ \ \ \ \ \ \ Circle\ displaying\ the\ range\ of\ the\ tower\r\n\ @param\ level\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Level\ the\ tower\ is\ in\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Called\ every\ act.\r\n
+comment3.params=
+comment3.target=void\ turn()
+comment3.text=\r\n\ Finds\ an\ enemy\ to\ target\ and\ turns\ towards\ them\ and\ fires\ after\ reloading.\r\n
+numComments=4

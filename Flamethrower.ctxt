@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Flamethrower
+comment0.text=\r\n\ Flamethrower\ Class\ -\ Inherits\ from\ the\ Tower\ superclass,\ shoots\ fireballs\ at\ enemies.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=tileIndex\ base\ rangeCircle\ level
+comment1.target=Flamethrower(int,\ Base,\ Range,\ Level)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Flamethrower,\ calls\ superclass\ and\ initializes\ starting\ values.\r\n\ \r\n\ @param\ tileIndex\ \ \ \ \ \ \ \ \ \ \ \ \ Index\ of\ the\ tile\ the\ Flamethrower\ will\ be\ on\r\n\ @param\ base\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Base\ of\ the\ tower\r\n\ @param\ rangeCircle\ \ \ \ \ \ \ \ \ \ \ Circle\ that\ displays\ the\ range\r\n\ @param\ level\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Initialize\ level\ the\ Flamethrower\ is\ in\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Called\ every\ act.\r\n
+comment3.params=
+comment3.target=void\ turn()
+comment3.text=\r\n\ Finds\ an\ enemy\ to\ target\ and\ turns\ towards\ them\ and\ fires\ after\ reloading.\r\n
+numComments=4

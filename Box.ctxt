@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Box
+comment0.text=\r\n\ Box\ Class\ -\ A\ box\ that\ holds\ the\ image\ of\ the\ tower\ for\ the\ selection\ menu.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=towerImage
+comment1.target=Box(greenfoot.GreenfootImage)
+comment1.text=\r\n\ Constructor\ for\ Box\ class,\ initializes\ variables\ and\ objects\ and\ draws\ its\ image.\r\n\ \r\n\ @param\ towerImage\ \ \ \ \ \ \ \ Image\ of\ the\ tower\r\n
+comment2.params=isSelected
+comment2.target=void\ setIsSelected(boolean)
+comment2.text=\r\n\ Sets\ whether\ or\ not\ the\ box\ is\ selected.\r\n\ \r\n\ @param\ isSelected\ \ \ \ \ \ \ \ Boolean\ for\ whether\ or\ not\ the\ tile\ has\ been\ selected.\r\n
+comment3.params=
+comment3.target=void\ draw()
+comment3.text=\r\n\ Draws\ the\ image\ of\ the\ box.\r\n
+comment4.params=
+comment4.target=boolean\ getIsSelected()
+comment4.text=\r\n\ Returns\ whether\ or\ not\ the\ box\ has\ been\ selected.\r\n\ \r\n\ @return\ boolean\ \ \ \ \ \ True\ if\ the\ box\ is\ selected,\ false\ if\ not.\r\n
+numComments=5

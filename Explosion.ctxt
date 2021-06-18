@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Explosion
+comment0.text=\r\n\ Explosion\ Class\ -\ A\ 25-frame\ animation\ that\ plays\ when\ a\ tower\ or\ tank\ runs\ out\ of\ hitpoints,\ also\ includes\ a\ sound\ effect\r\n\ if\ needed.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=playSFX
+comment1.target=Explosion(boolean)
+comment1.text=\r\n\ Constructor\ for\ Explosion\ Class,\ takes\ in\ boolean\ variable\ and\ determines\ accordingly\ if\ there\ will\ be\ a\ SFX.\r\n\ \r\n\ @param\ playSFX\ \ \ \ \ \ \ \ \ \ \ Boolean\ for\ whether\ or\ not\ the\ SFX\ will\ play\ (true\ -\ yes,\ false\ -\ no)\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Called\ every\ act,\ determines\ when\ to\ change\ frames\ and\ when\ to\ display\ the\ image\ of\ the\ rubble.\r\n
+numComments=3

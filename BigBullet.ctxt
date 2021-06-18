@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BigBullet
+comment0.text=\r\n\ BigBullet\ class\ -\ A\ big\ bullet\ that\ is\ shot\ out\ of\ SingleShooter\ towers.\r\n\ \r\n\ @author\ Ryo\ Minakami\r\n\ @version\ June\ 2021\r\n
+comment1.params=target
+comment1.target=BigBullet(greenfoot.Actor)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BigBullet,\ calls\ superclass\ constructor\ and\ initalizes\ starting\ values.\r\n\ \r\n\ @param\ target\ \ \ \ \ \ \ \ Target\ of\ the\ bullet.\r\n
+numComments=2

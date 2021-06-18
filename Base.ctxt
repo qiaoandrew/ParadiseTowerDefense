@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Base
+comment0.text=\r\n\ Base\ class\ -\ Image\ that\ is\ displayed\ under\ towers,\ does\ not\ move\ while\ the\ top\ of\ the\ tower,\ thus\ creates\r\n\ a\ cool\ effect.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=baseType
+comment1.target=Base(int)
+comment1.text=\r\n\ Constructor\ for\ Base\ class,\ sets\ its\ image.\r\n\ \r\n\ @param\ baseType\ \ \ \ \ \ Integer\ telling\ which\ type\ of\ base\ it\ will\ be\r\n
+numComments=2

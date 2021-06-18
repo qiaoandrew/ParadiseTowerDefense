@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Humanoid
+comment0.text=\r\n\ Humanoid\ Class\ -\ Inherits\ from\ Enemy\ Superclass,\ a\ humanoid\ enemy\ that\ moves\ through\ the\ course.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=path\ level
+comment1.target=Humanoid(java.util.ArrayList,\ Level)
+comment1.text=\r\n\ Constructor\ for\ Humanoid\ Actors.\r\n\ \r\n\ @param\ path\ \ \ \ \ \ Path\ that\ the\ humanoid\ will\ follow\r\n\ @param\ level\ \ \ \ \ Level\ that\ the\ humanoid\ is\ in\r\n
+numComments=2

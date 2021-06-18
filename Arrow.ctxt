@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Arrow
+comment0.text=\r\n\ Arrow\ Class\ -\ Arrow\ shot\ out\ by\ Archers.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=target
+comment1.target=Arrow(greenfoot.Actor)
+comment1.text=\r\n\ Constructor\ for\ Arrow\ Class,\ calls\ superclass\ and\ initializes\ starting\ values.\r\n\ \r\n\ @param\ target\ \ \ \ \ \ \ \ \ \ \ \ Target\ actor\ of\ the\ Arrow\r\n
+numComments=2

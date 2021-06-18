@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment0.text=\r\n\ MainMenu\ World\ -\ The\ Main\ Menu\ World\ where\ the\ user\ can\ select\ which\ level\ they\ want\ to\ play,\ as\ well\ as\ the\ level's\ name,\ image,\ and\ reward.\r\n\ Includes\ buttons\ to\ change\ the\ soundtrack,\ SFX,\ and\ pull\ up\ the\ information\ screen.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=songIndex\ isSFX
+comment1.target=MainMenu(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ MainMenu\ World,\ creates\ the\ world,\ initializes\ each\ of\ the\ buttons,\ user\ info,\ and\ other\ vital\ processes.\r\n\ \r\n\ @param\ songIndex\ \ \ \ \ \ \ \ \ Index\ of\ the\ song\ that\ is\ currently\ playing\ (0\ -\ first\ soundtrack,\ 1\ -\ second\ soundtrack,\ 2\ -\ third\ soundtrack,\ 3\ -\ none)\r\n\ @param\ isSFX\ \ \ \ \ \ \ \ \ \ \ \ \ If\ there\ is\ SFX\ (0\ -\ SFX\ is\ playing,\ 1\ -\ SFX\ is\ not\ playing)\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Called\ every\ act,\ checks\ if\ the\ user\ is\ hovering\ over\ any\ of\ the\ levels\ and\ if\ the\ click\ on\ anything.\r\n
+comment3.params=
+comment3.target=void\ checkClick()
+comment3.text=\r\n\ Called\ every\ method,\ checks\ if\ user\ clicks\ on\ any\ buttons\ and\ acts\ accordingly.\r\n
+comment4.params=
+comment4.target=void\ checkMouse()
+comment4.text=\r\n\ Called\ every\ method,\ checks\ if\ user\ hovers\ over\ any\ buttons\ and\ acts\ accordingly\r\n
+comment5.params=
+comment5.target=void\ restartTimer()
+comment5.text=\r\n\ Called\ to\ restart\ the\ timer\ that\ makes\ sure\ the\ back\ button\ on\ the\ info\ page\ does\ not\ get\ double\ clicked,\ causing\ the\ player\r\n\ to\ unintentionally\ return\ to\ the\ Start\ World.\r\n
+comment6.params=
+comment6.target=void\ nextSong()
+comment6.text=\r\n\ Changes\ the\ soundtrack\ to\ the\ next\ soundtrack\ and\ stores\ the\ user's\ information\ if\ needed.\r\n
+numComments=7

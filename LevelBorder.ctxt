@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LevelBorder
+comment0.text=\r\n\ LevelBorder\ Class\ -\ Used\ in\ the\ MainMenu,\ displays\ pictures\ of\ each\ of\ the\ levels,\ as\ well\ as\ their\ title\ and\ reward.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=levelImage\ title\ money
+comment1.target=LevelBorder(greenfoot.GreenfootImage,\ greenfoot.GreenfootImage,\ greenfoot.GreenfootImage)
+comment1.text=\r\n\ Constructor\ for\ LevelBorder\ class,\ initializes\ all\ variable\ and\ objects.\r\n\ \r\n\ @param\ levelImage\ \ \ \ \ \ \ \ \ \ \ \ Image\ of\ the\ level\r\n\ @param\ title\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Image\ of\ the\ title\ of\ the\ level\r\n\ @param\ money\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Image\ of\ the\ amount\ of\ money\ that\ is\ rewarded\ after\ the\ level\r\n
+comment2.params=
+comment2.target=void\ enlarge()
+comment2.text=\r\n\ Enlarges\ the\ image.\r\n
+comment3.params=
+comment3.target=void\ shrink()
+comment3.text=\r\n\ Shrinks\ the\ image.\r\n
+comment4.params=
+comment4.target=boolean\ getIsEnlarged()
+comment4.text=\r\n\ Returns\ whether\ or\ not\ the\ image\ is\ enlarged.\r\n\ \r\n\ @return\ boolean\ \ \ \ \ \ \ \ \ \ \ \ \ \ True\ if\ image\ is\ enlarged,\ false\ if\ not\r\n
+numComments=5

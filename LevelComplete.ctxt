@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LevelComplete
+comment0.text=\r\n\ LevelComplete\ World\ -\ The\ World\ that\ is\ displayed\ when\ the\ user\ completes\ the\ level.\ Displays\ a\ graphic,\ buttons,\ as\ well\ as\ a\ leaderboard\r\n\ for\ the\ user\ to\ see\ and\ interact\ with.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=songIndex\ isSFX\ levelIndex\ isSuccess
+comment1.target=LevelComplete(int,\ int,\ int,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LevelComplete,\ initalizes\ values\ and\ displays\ all\ relevant\ objects.\r\n\ \r\n\ @param\ songIndex\ \ \ \ \ \ \ \ \ \ \ \ \ Soundtrack\ (if\ any)\ that\ is\ playing\ (0\ -\ first\ soundtrack,\ 1\ -\ second\ soundtrack,\ 2\ -\ third\ soundtrack,\ 3\ -\ none)\r\n\ @param\ isSFX\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ If\ SFX\ are\ currently\ playing\ (0\ -\ true,\ 1\ -\ false)\r\n\ @param\ levelIndex\ \ \ \ \ \ \ \ \ \ \ \ Level\ number\ (1,\ 2,\ 3,\ 4,\ 5,\ or\ 6)\r\n\ @param\ isSuccess\ \ \ \ \ \ \ \ \ \ \ \ \ Boolean\ for\ whether\ the\ user\ has\ succeeded\ or\ failed\ in\ passing\ the\ level\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Called\ every\ act,\ checks\ for\ if\ the\ user\ drags\ their\ mouse\ over\ or\ clicks\ any\ buttons.\r\n
+comment3.params=
+comment3.target=void\ checkMouse()
+comment3.text=\r\n\ Checks\ if\ the\ user\ hovers\ over\ any\ buttons\ and\ enlarges\ accordingly.\r\n
+comment4.params=
+comment4.target=void\ checkClick()
+comment4.text=\r\n\ Called\ every\ act,\ checks\ if\ the\ user\ has\ clicked\ on\ any\ buttons\ and\ acts\ accordingly.\r\n
+comment5.params=
+comment5.target=void\ nextSong()
+comment5.text=\r\n\ Called\ to\ go\ to\ the\ next\ song,\ changes\ the\ song\ index\ and\ music\ accordingly.\r\n
+numComments=6

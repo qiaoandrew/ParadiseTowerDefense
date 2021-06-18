@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Robot
+comment0.text=\r\n\ Robot\ Class\ -\ Similiar\ to\ the\ humanoid,\ but\ faster\ and\ has\ more\ health.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=path\ level
+comment1.target=Robot(java.util.ArrayList,\ Level)
+comment1.text=\r\n\ Robot\ constructor,\ calls\ superclass\ and\ initializes\ starting\ values.\r\n\ \r\n\ @param\ path\ \ \ \ \ \ \ \ \ \ ArrayList\ of\ coordinates\ the\ robot\ will\ follow\r\n\ @param\ level\ \ \ \ \ \ \ \ \ Level\ the\ robot\ is\ in\r\n
+numComments=2

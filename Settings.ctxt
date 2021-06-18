@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Settings
+comment0.text=\r\n\ Settings\ Class\ -\ Actor\ that\ is\ displayed\ when\ the\ user\ clicks\ on\ the\ settings\ button\ within\ each\ level,\ has\ buttons\r\n\ that\ the\ user\ can\ use\ to\ do\ various\ actions.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=level
+comment1.target=Settings(Level)
+comment1.text=\r\n\ Constructor\ for\ Settings\ Class,\ initializes\ each\ of\ the\ buttons.\r\n\ \r\n\ @param\ level\ \ \ \ \ \ \ \ \ Level\ the\ Settings\ object\ is\ in\r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Called\ when\ the\ Settings\ instance\ is\ added\ to\ the\ world,\ adds\ all\ the\ buttons\ to\ the\ world.\r\n\ \r\n\ @param\ w\ \ \ \ \ \ \ \ \ \ \ \ \ World\ the\ Settings\ object\ is\ in\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Called\ every\ act,\ checks\ if\ the\ user\ hovers\ or\ clicks\ on\ the\ button\ and\ acts\ accordingly.\r\n
+numComments=4

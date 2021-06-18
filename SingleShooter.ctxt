@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SingleShooter
+comment0.text=\r\n\ SingleShooter\ Class\ -\ Inherits\ from\ the\ Tower\ superclass,\ shoots\ a\ single\ bullet\ at\ enemies.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=tileIndex\ base\ rangeCircle\ level
+comment1.target=SingleShooter(int,\ Base,\ Range,\ Level)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SingleShooter,\ calls\ superclass\ and\ initializes\ starting\ values.\r\n\ \r\n\ @param\ tileIndex\ \ \ \ \ \ \ \ \ \ \ \ \ Index\ of\ the\ tile\ the\ SingleShooter\ will\ be\ on\r\n\ @param\ base\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Base\ of\ the\ tower\r\n\ @param\ rangeCircle\ \ \ \ \ \ \ \ \ \ \ Circle\ displaying\ the\ range\ of\ the\ SingleShooter\r\n\ @param\ level\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Level\ the\ tower\ is\ in\r\n
+numComments=2

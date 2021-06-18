@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SmallBullet
+comment0.text=\r\n\ SmallBullet\ class\ -\ Two\ small\ bullets\ that\ are\ shot\ out\ of\ DoubleShooter\ towers.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=target
+comment1.target=SmallBullet(greenfoot.Actor)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SmallBullet,\ calls\ superclass\ constructor\ and\ initalizes\ starting\ values.\r\n\ \r\n\ @param\ target\ \ \ \ \ \ \ \ Target\ of\ the\ bullet.\r\n
+numComments=2

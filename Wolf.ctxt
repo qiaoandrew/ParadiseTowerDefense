@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Wolf
+comment0.text=\r\n\ Wolf\ Class\ -\ A\ pack\ of\ wolves,\ move\ quickly\ do\ not\ attack\ towers.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=path\ level
+comment1.target=Wolf(java.util.ArrayList,\ Level)
+comment1.text=\r\n\ Constructor\ for\ Wolf\ Class,\ initializes\ starting\ values.\r\n\ \r\n\ @param\ path\ \ \ \ \ \ \ \ \ \ ArrayList\ of\ coordinates\ the\ Wolf\ will\ follow\r\n\ @param\ level\ \ \ \ \ \ \ \ \ Level\ the\ Wolf\ is\ in\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Called\ every\ act.\r\n
+numComments=3

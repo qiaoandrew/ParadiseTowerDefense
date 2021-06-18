@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ Enemy\ Superclass\ -\ Actors\ the\ player\ has\ to\ defend\ against,\ move\ through\ the\ map,\ and\ damages\ the\ player\ if\ they\ reach\ the\ end.\r\n\ \r\n\ @author\ Andrew\ Qiao,\ James\ Li\r\n\ @version\ June\ 2021\r\n
+comment1.params=path\ level
+comment1.target=Enemy(java.util.ArrayList,\ Level)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ Enemy\ Class,\ initializes\ values.\r\n\ \r\n\ @param\ path\ \ \ \ \ \ \ \ \ \ Path\ that\ the\ enemy\ will\ follow.\r\n\ @param\ level\ \ \ \ \ \ \ \ \ Level\ the\ enemy\ is\ in.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Called\ every\ act.\r\n
+comment3.params=damage
+comment3.target=void\ hit(int)
+comment3.text=\r\n\ Called\ when\ the\ Enemy\ is\ hit\ with\ a\ projectile,\ deducts\ from\ its\ HP.\r\n\ \r\n\ @param\ damage\ \ \ \ \ \ \ \ Amount\ of\ damage\ the\ projectile\ does.\r\n
+comment4.params=
+comment4.target=Tower\ findTower()
+comment4.text=\r\n\ Finds\ and\ returns\ the\ nearest\ tower\ to\ the\ enemy.\r\n\ \r\n\ @return\ Tower\ \ \ \ \ \ \ \ Nearest\ tower\ to\ the\ enemy.\r\n
+comment5.params=
+comment5.target=void\ move()
+comment5.text=\r\n\ Moves\ the\ Enemy\ and\ acts\ accordingly.\r\n
+comment6.params=a
+comment6.target=double\ getDistance(greenfoot.Actor)
+comment6.text=\r\n\ Returns\ the\ distance\ between\ a\ troop\ and\ another\ actor.\r\n\ \r\n\ @return\ double\ \ \ \ \ \ \ \ \ \ \ Distance\ between\ a\ troop\ and\ another\ actor\r\n
+numComments=7

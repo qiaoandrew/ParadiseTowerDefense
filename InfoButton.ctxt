@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=InfoButton
+comment0.text=\r\n\ InfoButton\ Class\ -\ Subclass\ of\ the\ Image\ Class,\ has\ same\ function\ as\ its\ superclass,\ but\ was\ created\ to\ facilitate\ paint\ order\ \r\n\ complexities.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=image
+comment1.target=InfoButton(greenfoot.GreenfootImage)
+comment1.text=\r\n\ Constructor\ for\ InfoButton\ Class,\ calls\ its\ superclass.\r\n\ \r\n\ @param\ image\ \ \ \ \ \ \ \ \ \ \ \ \ GreenfootImage\ for\ the\ image\ that\ should\ be\ displayed.\r\n
+numComments=2

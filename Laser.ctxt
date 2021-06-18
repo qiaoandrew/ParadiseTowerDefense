@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Laser
+comment0.text=\r\n\ Laser\ Class\ -\ Laser\ shot\ out\ from\ LaserTowers.\r\n\ \r\n\ @author\ Andrew\ Qiao\ \r\n\ @version\ June\ 2021\r\n
+comment1.params=target
+comment1.target=Laser(greenfoot.Actor)
+comment1.text=\r\n\ Constructor\ for\ Laser\ Class.\r\n\ \r\n\ @param\ target\ \ \ \ \ \ \ \ \ \ \ \ Target\ of\ the\ laser\r\n
+numComments=2

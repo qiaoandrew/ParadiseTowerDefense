@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Image
+comment0.text=\r\n\ Image\ Class\ -\ An\ image\ that\ is\ an\ actor,\ making\ it\ easier\ to\ manipulate\ (adding\ or\ removing\ it\ from\ the\ world)\r\n\ and\ which\ you\ can\ set\ the\ transparency\ of.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=image
+comment1.target=Image(greenfoot.GreenfootImage)
+comment1.text=\r\n\ Constructor\ of\ Image\ class,\ sets\ the\ image.\r\n\ \r\n\ @param\ image\ \ \ \ \ \ \ \ \ Image\ that\ will\ be\ set\r\n
+comment2.params=transparency
+comment2.target=void\ setTransparency(int)
+comment2.text=\r\n\ Set\ the\ transparency\ of\ the\ image.\r\n\ \r\n\ @param\ transparency\ \ \ \ \ \ \ \ \ \ Transparency\ of\ the\ image\r\n
+numComments=3

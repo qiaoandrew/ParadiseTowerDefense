@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Fireball
+comment0.text=\r\n\ Fireball\ Class\ -\ Fireball\ that\ is\ shot\ out\ of\ Dragons\ and\ Flamethrowers.\r\n\ \r\n\ @author\ Andrew\ Qiao\ \r\n\ @version\ June\ 2021\r\n
+comment1.params=target\ isDragon
+comment1.target=Fireball(greenfoot.Actor,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Fireball,\ calls\ superclass\ constructor\ and\ initalizes\ starting\ values.\r\n\ \r\n\ @param\ target\ \ \ \ \ \ \ \ Target\ of\ the\ projectile\r\n\ @param\ isDragon\ \ \ \ \ \ True\ if\ Fireball\ is\ being\ shot\ out\ of\ dragon,\ false\ if\ not\r\n
+comment2.params=
+comment2.target=boolean\ checkHit()
+comment2.text=\r\n\ Checks\ if\ the\ Fireball\ has\ hit\ anything.\r\n\ \r\n\ @return\ boolean\ \ \ \ \ \ \ \ \ \ True\ if\ the\ fireball\ has\ hit\ something,\ false\ if\ not.\r\n
+numComments=3

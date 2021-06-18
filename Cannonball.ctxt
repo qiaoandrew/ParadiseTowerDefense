@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cannonball
+comment0.text=\r\n\ Cannonball\ Class\ -\ Cannonball\ shot\ out\ by\ Cannons.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=target
+comment1.target=Cannonball(greenfoot.Actor)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cannonball,\ calls\ superclass\ constructor\ and\ initalizes\ starting\ values.\r\n\ \r\n\ @param\ target\ \ \ \ \ \ \ \ Target\ of\ the\ projectile.\r\n
+numComments=2

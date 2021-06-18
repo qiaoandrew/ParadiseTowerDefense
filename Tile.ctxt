@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tile
+comment0.text=\r\n\ Tile\ Class\ -\ Places\ where\ a\ user\ can\ place\ their\ towers.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=tileIndex
+comment1.target=Tile(int)
+comment1.text=\r\n\ Constructor\ for\ Tile\ Class,\ sets\ initial\ values.\r\n\ \r\n\ @param\ tileIndex\ \ \ \ \ \ \ \ \ Index\ of\ the\ tile\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Called\ every\ act,\ checks\ if\ the\ user\ has\ pressed\ the\ tile.\r\n
+comment3.params=transparency
+comment3.target=void\ setTransparency(int)
+comment3.text=\r\n\ Sets\ the\ transparency\ of\ the\ tile.\r\n\ \r\n\ @param\ transparency\ \ \ \ \ \ New\ transparency\ of\ the\ tile.\r\n
+numComments=4

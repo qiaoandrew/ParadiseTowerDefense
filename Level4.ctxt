@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Level4
+comment0.text=\r\n\ Level4\ Class\ -\ The\ fourth\ level\ the\ user\ will\ play,\ inherits\ from\ Level\ Superclass.\r\n\ \r\n\ @author\ Andrew\ Qiao,\ James\ Li,\ Brendan\ Chan\r\n\ @version\ June\ 2021\r\n
+comment1.params=songIndex\ isSFX
+comment1.target=Level4(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ instances\ of\ Class\ Level4,\ calls\ superclass\ constructor\ and\ sets\ essential\ values.\r\n\ \r\n\ @param\ songIndex\ \ \ \ \ \ \ \ \ \ \ \ \ Which\ soundtrack,\ if\ any,\ is\ playing\ (0\ -\ first,\ 1\ -\ second,\ 2\ -\ third,\ 3\ -\ none)\r\n\ @param\ isSFX\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Integer\ for\ whether\ or\ not\ the\ SFX\ is\ playing\ (0\ -\ yes,\ 1\ -\ no)\r\n
+comment2.params=
+comment2.target=void\ restartLevel()
+comment2.text=\r\n\ Called\ when\ the\ use\ clicks\ the\ restart\ button\ in\ the\ settings,\ restarts\ the\ level.\r\n
+comment3.params=isSuccess
+comment3.target=void\ showEndScreen(boolean)
+comment3.text=\r\n\ Shows\ the\ ending\ screen.\r\n\ \r\n\ @param\ isSuccess\ \ \ \ \ \ \ \ \ \ \ \ \ Boolean\ for\ whether\ or\ not\ the\ user\ has\ succeeded\r\n
+numComments=4

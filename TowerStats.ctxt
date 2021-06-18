@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TowerStats
+comment0.text=\r\n\ TowerStats\ -\ Basically\ the\ same\ as\ the\ Image\ Class,\ however,\ I\ had\ to\ make\ another\ class\ due\ to\ issues\ with\r\n\ the\ paint\ order.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=image
+comment1.target=TowerStats(greenfoot.GreenfootImage)
+comment1.text=\r\n\ Constructor\ for\ TowerStats\ Class,\ calls\ its\ superclass.\r\n\ \r\n\ @param\ image\ \ \ \ \ \ \ \ \ \ \ \ \ GreenfootImage\ for\ the\ image\ that\ should\ be\ displayed.\r\n
+numComments=2

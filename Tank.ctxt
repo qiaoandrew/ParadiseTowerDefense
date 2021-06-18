@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tank
+comment0.text=\r\n\ Tank\ Class\ -\ Inherits\ from\ Enemy\ Superclass,\ a\ tank\ enemy\ that\ moves\ throughout\ the\ course\ and\ shoots\ at\ towers.\r\n\ \r\n\ @author\ Andrew\ Qiao\r\n\ @version\ June\ 2021\r\n
+comment1.params=path\ level
+comment1.target=Tank(java.util.ArrayList,\ Level)
+comment1.text=\r\n\ Constructor\ for\ Tank\ Class,\ calls\ superclass\ constructor,\ sets\ images,\ and\ other\ variables.\r\n\ \r\n\ @param\ path\ \ \ \ \ \ \ \ \ \ ArrayList\ of\ coordinates\ the\ Tank\ will\ follow\r\n\ @param\ level\ \ \ \ \ \ \ \ \ Level\ the\ Tank\ is\ in\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Called\ every\ act,\ finds\ the\ nearest\ tower\ and\ determines\ if\ to\ shoot\ or\ move.\r\n
+comment3.params=a
+comment3.target=void\ shoot(greenfoot.Actor)
+comment3.text=\r\n\ Shoots\ at\ a\ tower.\r\n\ \r\n\ @param\ a\ \ \ \ \ \ \ \ \ Tower\ to\ be\ shot\ at\r\n
+numComments=4

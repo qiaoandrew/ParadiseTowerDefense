@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Level1
+comment0.text=\r\n\ Level1\ Class\ -\ The\ first\ level\ the\ user\ will\ play,\ gives\ a\ simple\ introduction\ to\ the\ game,\ inherits\ from\ Level\ Superclass.\r\n\ \r\n\ @author\ Andrew\ Qiao,\ Ryo\ Minakami\r\n\ @version\ June\ 2021\r\n
+comment1.params=songIndex\ isSFX
+comment1.target=Level1(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ instances\ of\ Class\ Level1,\ calls\ superclass\ constructor\ and\ sets\ essential\ values.\r\n\ \r\n\ @param\ songIndex\ \ \ \ \ \ \ \ \ \ \ \ \ Index\ of\ the\ soundtrack\ that\ is\ currently\ playing\ (0\ -\ first\ song,\ 1\ -\ second\ song,\ 2\ -\ third\ song,\ 3\ -\ none)\r\n\ @param\ isSFX\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ If\ the\ SFX\ is\ playing\ (0\ -\ yes,\ 1\ -\ no)\r\n
+comment2.params=
+comment2.target=void\ restartLevel()
+comment2.text=\r\n\ Called\ when\ the\ use\ clicks\ the\ restart\ button\ in\ the\ settings,\ restarts\ the\ level.\r\n
+comment3.params=isSuccess
+comment3.target=void\ showEndScreen(boolean)
+comment3.text=\r\n\ Called\ to\ show\ the\ end\ screen\ after\ the\ level\ has\ either\ been\ completed\ or\ failed.\r\n\ \r\n\ @param\ isSuccess\ \ \ \ \ \ \ \ \ \ \ \ \ Boolean\ for\ if\ the\ level\ has\ been\ a\ success\r\n
+numComments=4
