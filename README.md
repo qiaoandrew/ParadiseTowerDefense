@@ -21,9 +21,9 @@ Paradise Tower Defense is a tower defense game including six different levels. I
 ## More Specifics
 - The game includes 6 different levels, each with their own map and enemy waves
 - There are 5 different types of enemies, the dragon, tank, robot, humanoid, and wolf, each with their own properties
-- Similarily, there are also 6 types of towers, the single shoot, single launcher, archer, laser tower, cannon, and flamethrower
+- Similarily, there are also 6 types of towers, the single shooter, single launcher, archer, laser tower, cannon, and flamethrower
 - Towers can be placed on the marked tiles (yellow mark)
-- The towers, along with the dragon and the tank each fire projectiles, with a total 7 different projectiles (dragon and flamethrower share their fireball)
+- The towers, along with the dragon and the tank each fire projectiles, with a total 7 different projectiles (dragon and flamethrower share the same fireball)
 - Includes 3 different soundtracks that the user can shuffle through using the music button
 - User can turn on or off the SFX by clicking on the SFX button
 - User wins if they pass all the waves without losing all their health
