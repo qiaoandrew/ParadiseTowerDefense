@@ -15,10 +15,10 @@
 
 <img src="images/start-screen.jpg" alt="startscreen" width="700"/>
 
-## A Quick Overview...
+## A Quick Overview
 Paradise Tower Defense is a tower defense game including six different levels. In each of these levels, enemies will be spawned every wave, and it will be your job to place towers on designated spots throughout the map to prevent them from reaching the end!
 
-## Specifics
+## More Specifics
 - The game includes 6 different levels, each with their own map and enemy waves
 - There are 5 different types of enemies, the dragon, tank, robot, humanoid, and wolf, each with their own properties
 - Similarily, there are also 6 types of towers, the single shoot, single launcher, archer, laser tower, cannon, and flamethrower
