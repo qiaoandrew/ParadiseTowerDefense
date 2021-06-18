@@ -8,7 +8,7 @@
 4. Click on the project.gfar file in the folder that was created.
 5. When the scenario is finished loading, click the "Run" button and enjoy!
 
-<img src="images/start-screen.jpg" alt="startscreen" width="200"/>
+<img src="images/start-screen.jpg" alt="startscreen" width="1000"/>
 
 ## A Quick Overview...
 Paradise Tower Defense is a tower defense game including six different levels. In each of these levels, enemies will be spawned every wave, and it will be your job to place towers on designated spots throughout the map to prevent them from reaching the end!
