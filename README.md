@@ -9,7 +9,7 @@
 ## Playing Locally on Your Device
 1. Download [Greenfoot](https://www.greenfoot.org/download) (Greenfoot is an IDE for creating games and simulations).
 2. Download the [ParadiseTowerDefense.gfar](ParadiseTowerDefense.gfar) file.
-3. Open the PradiseTowerDefense.far file. This will create a folder with all the classes and other assets.
+3. Open the PradiseTowerDefense.gfar file. This will create a folder with all the classes and other assets.
 4. Click on the project.gfar file in the folder that was created.
 5. When the scenario is finished loading, click the "Run" button and enjoy!
 
