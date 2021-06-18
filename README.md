@@ -28,6 +28,6 @@ Paradise Tower Defense is a tower defense game including six different levels. I
 - User can turn on or off the SFX by clicking on the SFX button
 - User wins if they pass all the waves without losing all their health
 
-<img src="images/in-game.jpg" alt="ingame" width="700"/>
+<img src="images/in-game.jpg" alt="ingame" width="500"/>
 
-<img src="images/end-screen.jpg" alt="endscreen" width="700"/>
+<img src="images/end-screen.jpg" alt="endscreen" width="500"/>
