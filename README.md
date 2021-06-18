@@ -8,4 +8,4 @@
 4. Click on the project.gfar file in the folder that was created.
 5. When the scenario is finished loading, click the "Run" button and enjoy!
 
-![Start Screen](images/startscreen.jpg "ParadiseTowerDefense Start Screen")
+![Start Screen](images/start-screen.jpg "ParadiseTowerDefense Start Screen")
