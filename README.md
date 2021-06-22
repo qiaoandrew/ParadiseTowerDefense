@@ -1,5 +1,5 @@
 # Paradise Tower Defense
- A cool tower defense game, created for my culminating Grade 12 Computer Science project! Enjoy!
+ A tower defense game, created for my culminating Grade 12 Computer Science project! Enjoy!
 
 ## Playing on the Greenfoot Gallery
 1. Go to [Greenfoot Gallery](https://www.greenfoot.org/scenarios/28182).
@@ -11,12 +11,12 @@
 2. Download the [ParadiseTowerDefense.gfar](ParadiseTowerDefense.gfar) file.
 3. Open the PradiseTowerDefense.gfar file. This will create a folder with all the classes and other assets.
 4. Click on the project.gfar file in the folder that was created.
-5. When the scenario is finished loading, click the "Run" button and enjoy!
+5. When the scenario is finished loading, click the "Run" button and have fun!
 
 <img src="images/start-screen.jpg" alt="startscreen" width="700"/>
 
 ## A Quick Overview
-Paradise Tower Defense is a tower defense game including six different levels. In each of these levels, enemies will be spawned every wave, and it will be your job to place towers on designated spots throughout the map to prevent them from reaching the end!
+Paradise Tower Defense is a tower defense game that includes 6 different levels. In each of these levels, enemies will be spawned every wave, and it will be your job to place towers on designated spots throughout the map to prevent them from reaching the end!
 
 ## More Specifics
 - The game includes 6 different levels, each with their own map and enemy waves
